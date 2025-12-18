@@ -8,4 +8,4 @@ This project is part of the Data Science program at **Epsilon AI**.
 It demonstrates the Data Cleaning and Exploratory Data Analysis (EDA) phases.
 
 ## Mention
-Special thanks to [Epsilon AI]([LINK_TO_THEIR_REPO_HERE](https://www.epsiloneg.com/)) for the guidance and resources.
+Special thanks to [[Epsilon AI](https://www.epsiloneg.com/)]] for the guidance and resources.
